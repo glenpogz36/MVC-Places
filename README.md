@@ -10,7 +10,7 @@ _A C# application that allows a user to enter details about travel locations and
 
 ## Setup/Installation Requirements
 
-*  _Clone this repository 
+*  _Clone this repository_
 * _Download .NET Core 2.1.3 SDK and .NET Core Runtime 2.0.9 and install them. Download Mono and install it._
 * _Change into the work directory:: $ cd Places.Solution_
 * _To edit the project, open the project in your preferred text editor._
@@ -20,8 +20,8 @@ _A C# application that allows a user to enter details about travel locations and
 
 ## Support and contact details
 
-_Kenny Wolfenberger - kennywolfenberger@gmail.com_
-_Glen Sale - glen\_sale@yahoo.com_
+* _Kenny Wolfenberger - kennywolfenberger@gmail.com_
+* _Glen Sale - glen\_sale@yahoo.com_
 
 
 ## Technologies Used
